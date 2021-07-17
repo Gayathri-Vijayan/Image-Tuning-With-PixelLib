@@ -7,3 +7,4 @@ The objects are:
 
 Person, bus,car,aeroplane, bicycle, ,motorbike,bird, boat, bottle,  cat, chair, cow, dinningtable, dog,
 horse pottedplant, sheep, sofa, train, tv
+
