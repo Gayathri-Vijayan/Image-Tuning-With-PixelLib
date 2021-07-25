@@ -16,4 +16,7 @@ horse pottedplant, sheep, sofa, train, tv
  
 <h2 > Processed images: </h2>
 
-![Eg](C1.png) ![Eg](C2.png)
+![Eg](C1.png) 
+
+
+![Eg](C2.png)
