@@ -9,10 +9,11 @@ The objects are:
 
 Person, bus,car,aeroplane, bicycle, ,motorbike,bird, boat, bottle,  cat, chair, cow, dinningtable, dog,
 horse pottedplant, sheep, sofa, train, tv
+ 
+ <h2> Original image: </h2>
+ 
+ ![org](original.png) 
+ 
+<h2 > Processed images: </h2>
 
-<h3 > Processed images: </h3>
-
-![Eg](C1.png) 
-
-
-![Eg](C2.png)
+![Eg](C1.png) ![Eg](C2.png)
